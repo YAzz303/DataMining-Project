@@ -1,0 +1,1 @@
+This project performs data mining on a sales transaction dataset from a UK-based e-commerce retailer specializing in gifts and homewares. The analysis includes Exploratory Data Analysis (EDA), Customer Segmentation, and Association Rule Mining to uncover insights into customer behavior, product associations, and sales patterns.
